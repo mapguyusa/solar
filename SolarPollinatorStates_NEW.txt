@@ -1,0 +1,49 @@
+STATE	STATE_ABBR	Solar_MW	TP_AG_AC
+Alabama	AL	172.2	3754.24
+Arizona	AZ	2528	42701.67
+Arkansas	AR	94	8093.23
+California	CA	14562.2	217194.67
+Colorado	CO	434	11588.68
+Connecticut	CN	52.2	1338.96
+Delaware	DE	32.3	3425.91
+Florida	FL	1104.1	33749.01
+Georgia	GA	1029.8	24758.09
+Idaho	ID	340	11161.12
+Illinois	IL	35.1	4314.87
+Indiana	IN	201.8	24072.77
+Iowa	IA	7.7	1983.41
+Kansas	KS	3	665.92
+Kentucky	KY	25.2	553.14
+Louisiana	LA	0	0
+Maine	ME	1.5	1.71
+Maryland	MD	359.6	11974.91
+Massachusetts	MA	569.1	7251.77
+Michigan	MI	73	4159.02
+Minnesota	MN	488.9	62913.2
+Mississippi	MS	160.6	123.28
+Missouri	MO	44.1	5210.78
+Montana	MT	17	2235.02
+Nebraska	NE	6.3	1908.54
+Nevada	NV	2458.3	2725.72
+New Hampshire	NH	0	0
+New Jersey	NJ	665.6	27015.96
+New Mexico	NM	638.2	3011.72
+New York	NY	166.4	6447.24
+North Carolina	NC	4026.6	245062.16
+North Dakota	ND	0	0
+Ohio	OH	68.8	14848.47
+Oklahoma	OK	2.5	20.21
+Oregon	OR	204.1	16338.38
+Pennsylvania	PA	54.2	3231
+Rhode Island	RI	10.2	55.35
+South Carolina	SC	205.2	10607.75
+South Dakota	SD	1	20.81
+Tennessee	TN	143.3	7773.11
+Texas	TX	2700.7	14382.62
+Utah	UT	1161.5	19141.94
+Vermont	VT	79.5	687.92
+Virginia	VA	278.7	7551.03
+Washington	WA	0.5	0
+West Virginia	WV	0	0
+Wisconsin	WI	20.4	7628.21
+Wyoming	WY	0	0
